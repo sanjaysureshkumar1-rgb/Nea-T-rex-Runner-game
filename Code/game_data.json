@@ -1,0 +1,177 @@
+{
+  "high_score": 2050,
+  "skin_data": {
+    "skins": {
+      "Classic": {
+        "color": [
+          34,
+          139,
+          34
+        ],
+        "unlocked": true,
+        "cost": 0,
+        "description": "Original dinosaur"
+      },
+      "Red Rex": {
+        "color": [
+          220,
+          20,
+          60
+        ],
+        "unlocked": true,
+        "cost": 100,
+        "description": "Fiery red dinosaur"
+      },
+      "Blue": {
+        "color": [
+          30,
+          144,
+          255
+        ],
+        "unlocked": true,
+        "cost": 150,
+        "description": "Cool blue dinosaur"
+      },
+      "Golden": {
+        "color": [
+          255,
+          215,
+          0
+        ],
+        "unlocked": false,
+        "cost": 200,
+        "description": "Shiny golden dinosaur"
+      },
+      "Purple": {
+        "color": [
+          138,
+          43,
+          226
+        ],
+        "unlocked": true,
+        "cost": 250,
+        "description": "Purple dinosaur"
+      },
+      "Pink": {
+        "color": [
+          255,
+          105,
+          180
+        ],
+        "unlocked": false,
+        "cost": 300,
+        "description": "pink dinosaur"
+      },
+      "Orange": {
+        "color": [
+          255,
+          140,
+          0
+        ],
+        "unlocked": false,
+        "cost": 350,
+        "description": "Sunset orange dinosaur"
+      },
+      "Aqua": {
+        "color": [
+          0,
+          255,
+          255
+        ],
+        "unlocked": false,
+        "cost": 400,
+        "description": "Ocean aqua dinosaur"
+      },
+      "Shadow": {
+        "color": [
+          50,
+          50,
+          50
+        ],
+        "unlocked": false,
+        "cost": 500,
+        "description": "Shadow dinosaur"
+      },
+      "Rainbow": {
+        "color": [
+          255,
+          0,
+          255
+        ],
+        "unlocked": false,
+        "cost": 1000,
+        "description": "Legendary rainbow dinosaur"
+      }
+    },
+    "current_skin": "Purple",
+    "total_coins": 275
+  },
+  "achievement_data": {
+    "achievements": {
+      "first_jump": {
+        "unlocked": false,
+        "progress": 0
+      },
+      "distance_100": {
+        "unlocked": true,
+        "progress": 100
+      },
+      "distance_500": {
+        "unlocked": true,
+        "progress": 500
+      },
+      "distance_1000": {
+        "unlocked": true,
+        "progress": 1000
+      },
+      "score_500": {
+        "unlocked": true,
+        "progress": 550
+      },
+      "score_1000": {
+        "unlocked": true,
+        "progress": 1550
+      },
+      "score_2000": {
+        "unlocked": false,
+        "progress": 225
+      },
+      "coins_50": {
+        "unlocked": false,
+        "progress": 3
+      },
+      "coins_100": {
+        "unlocked": false,
+        "progress": 3
+      },
+      "coins_total_500": {
+        "unlocked": false,
+        "progress": 275
+      },
+      "level_5": {
+        "unlocked": false,
+        "progress": 1
+      },
+      "level_10": {
+        "unlocked": false,
+        "progress": 1
+      },
+      "time_60": {
+        "unlocked": true,
+        "progress": 3600
+      },
+      "time_180": {
+        "unlocked": false,
+        "progress": 716
+      },
+      "powerups_10": {
+        "unlocked": false,
+        "progress": 1
+      }
+    }
+  },
+  "audio_settings": {
+    "music_volume": 0.49666666666666665,
+    "sfx_volume": 0.5266666666666666
+  }
+}
