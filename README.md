@@ -39,27 +39,24 @@ Figure 1 - main menu
 
 The main menu is the central hub of the game. From here, players can launch any game mode, access the skins shop, view achievements, check the leaderboard, or adjust settings. The player's total coin balance is displayed prominently beneath the title.
 
-Figure 
+Figure 2 — Single Player Gameplay
 
 https://github.com/user-attachments/assets/0522e3bf-53b5-4cc0-9075-47a8c0802589
 
-2 — Single Player Gameplay
-
-![Figure 2 - Gameplay]
+[Figure 2 - Gameplay]
 
 The core single player gameplay loop. The player must dodge cacti and birds whilst collecting coins. The HUD displays the current score, high score, coin count, and level in real time. Difficulty increases as the level progresses.
 
----
+Figure 3 — 2-Player Mode
 
-**Figure 3 — 2-Player Mode**
 
-![Figure 3 - 2 Player Mode](assets/screenshots/figure3_two_player.png)
+
+[Figure 3 - 2 Player Mode]
 
 Two-player local co-op on a shared screen. Player 1 (red) uses WASD and Player 2 (blue) uses the arrow keys. Each player's survival status is tracked independently in the top-right corner. The round ends when both players have been eliminated.
 
----
 
-**Figure 4 — Pause Screen**
+Figure 4 — Pause Screen
 
 ![Figure 4 - Paused](assets/screenshots/figure4_paused.png)
 
