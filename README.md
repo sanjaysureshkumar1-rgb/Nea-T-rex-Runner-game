@@ -32,16 +32,20 @@ Features
 - ⏸️ **Pause Functionality** — Pause and resume at any time
 
 
-figure 1 - main menu 
+Figure 1 - main menu 
 <img width="1247" height="1047" alt="image" src="https://github.com/user-attachments/assets/0ac0d21f-b648-433c-a7d5-801e8617e6f0" />
 
 [Figure 1 - Main Menu]
 
 The main menu is the central hub of the game. From here, players can launch any game mode, access the skins shop, view achievements, check the leaderboard, or adjust settings. The player's total coin balance is displayed prominently beneath the title.
 
-**Figure 2 — Single Player Gameplay**
+Figure 
 
-![Figure 2 - Gameplay](assets/screenshots/figure2_gameplay.png)
+https://github.com/user-attachments/assets/0522e3bf-53b5-4cc0-9075-47a8c0802589
+
+2 — Single Player Gameplay
+
+![Figure 2 - Gameplay]
 
 The core single player gameplay loop. The player must dodge cacti and birds whilst collecting coins. The HUD displays the current score, high score, coin count, and level in real time. Difficulty increases as the level progresses.
 
