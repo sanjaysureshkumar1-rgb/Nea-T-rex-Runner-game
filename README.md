@@ -8,10 +8,8 @@ This project reimagines the offline Chrome Dino as an enhanced endless runner de
 - [About the Project]
 - [Features]
 - [Screenshots]
-- [Getting Started]
 - [How to Play]
 - [Technologies Used]
-- [Project Structure]
 
 About the Project
 
@@ -149,35 +147,6 @@ The settings screen provides sliders to independently adjust music volume and so
 ![Figure 15 - Game Over](assets/screenshots/figure15_game_over.png)
 
 The game over screen displays the player's final score and coins earned in that run. Players can instantly restart with `SPACE` or return to the main menu with `ESC`.
-
----
-
-## Getting Started
-
-### Prerequisites
-
-- Python 3.8 or above
-- Pygame
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sanjaysureshkumar1-rgb/Nea-T-rex-Runner-game.git
-   cd Nea-T-rex-Runner-game
-   ```
-
-2. Install the required dependencies:
-   ```bash
-   pip install pygame
-   ```
-
-3. Run the game:
-   ```bash
-   python main.py
-   ```
-
----
 
 ## How to Play
 
