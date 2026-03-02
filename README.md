@@ -2,32 +2,31 @@
 
 This project reimagines the offline Chrome Dino as an enhanced endless runner developed with Pygame. It introduces level progression, power-ups, unlockable skins, dynamic environments, improved visuals, sound effects, music, and a detailed scoring system with local leaderboards to enhance engagement and replayability.
 
+Table of Contents
 
-## 📋 Table of Contents
-
-- [About the Project]
-- [Features]
-- [Screenshots]
-- [How to Play]
-- [Technologies Used]
+- About the Project
+- Features
+- Screenshots
+- How to Play
+- Technologies Used
 
 About the Project
 
 The original Chrome T-Rex game was designed as a simple Easter egg for users without an internet connection. Whilst functional, it lacks variety, progression, and long-term engagement.
 
-This project reimagines the classic endless runner with a full feature set — including unlockable skins, a coin economy, multiple game modes, a leaderboard, and dynamic level progression — transforming a throwaway minigame into a genuinely replayable experience.
+This project reimagines the classic endless runner with a full feature set , including unlockable skins, a coin economy, multiple game modes, a leaderboard, and dynamic level progression — transforming a throwaway minigame into a genuinely replayable experience.
 
 Features 
-- 🎮 **Single Player Mode** — Classic endless runner with increasing difficulty
-- 👥 **2-Player Mode** — Local co-op on the same keyboard
-- 📖 **Story Mode** — Five unique levels across different environments, each with its own objective
-- 🏆 **Leaderboard** — Track high scores, total coins, and achievements
-- 🦖 **Unlockable Skins** — Spend coins to customise your dinosaur
-- 🏅 **Achievements System** — 15 achievements to unlock across all modes
-- 🪙 **Coin Economy** — Collect coins during gameplay to spend in the skins shop
-- ⚡ **Power-Ups** — Shield, Speed Boost, Double Jump, and Coin Magnet
-- ⚙️ **Settings Menu** — Adjust music volume, sound effects, and view controls
-- ⏸️ **Pause Functionality** — Pause and resume at any time
+- Single Player Mode — Classic endless runner with increasing difficulty
+- 2-Player Mode — Local co-op on the same keyboard
+- Story Mode — Five unique levels across different environments, each with its own objective
+- Leaderboard— Track high scores, total coins, and achievements
+- Unlockable Skins— Spend coins to customise your dinosaur
+- Achievements Systems— 15 achievements to unlock across all modes
+- Coin Economy— Collect coins during gameplay to spend in the skins shop
+- Power-Ups— Shield, Speed Boost, Double Jump, and Coin Magnet
+- Settings Menu — Adjust music volume, sound effects, and view controls
+- Pause Functionality— Pause and resume at any time
 
 
 Figure 1 - main menu 
